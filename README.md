@@ -2,6 +2,8 @@
 
 a gruvbox hard dark theme for keybr.com
 
+![preview](./preview.png)
+
 ## Installation
 
 1. click the [theme switcher icon](https://github.com/user-attachments/assets/bb460285-b14e-4e91-a9c5-7ad9b1bb1ed2) under your profile
